@@ -1,0 +1,26 @@
+[
+  {
+    "file": "annotations-2.xml",
+    "shape_types": {
+      "box": 0,
+      "polygon": 640,
+      "points": 0
+    }
+  },
+  {
+    "file": "annotations-3.xml",
+    "shape_types": {
+      "box": 1129,
+      "polygon": 0,
+      "points": 0
+    }
+  },
+  {
+    "file": "annotations.xml",
+    "shape_types": {
+      "box": 232,
+      "polygon": 0,
+      "points": 0
+    }
+  }
+]

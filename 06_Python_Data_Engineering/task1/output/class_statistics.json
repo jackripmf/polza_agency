@@ -1,0 +1,28 @@
+[
+  {
+    "file": "annotations-2.xml",
+    "unique_labels": 3,
+    "labels": {
+      "fur": 34,
+      "ignore": 543,
+      "item": 63
+    }
+  },
+  {
+    "file": "annotations-3.xml",
+    "unique_labels": 2,
+    "labels": {
+      "grab": 190,
+      "vagon": 939
+    }
+  },
+  {
+    "file": "annotations.xml",
+    "unique_labels": 3,
+    "labels": {
+      "Дублирующий": 89,
+      "Основной": 140,
+      "Светофор на другой дороге": 3
+    }
+  }
+]
